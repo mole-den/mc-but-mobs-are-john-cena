@@ -1,2 +1,2 @@
-# mc-but-mobs-are-john-cena
-spadn
+# Minecraft but Mobs are John Cena
+Datapack for disbadn's video.
